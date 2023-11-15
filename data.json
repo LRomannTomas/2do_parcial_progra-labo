@@ -1,0 +1,49 @@
+{
+    "faustitoelrey09": {
+        "ultimo_nivel_ganado": 1,
+        "dinero": 300,
+        "items": []
+    },
+    "tomasitoelrey09": {
+        "ultimo_nivel_ganado": 3,
+        "dinero": 300,
+        "items": []
+    },
+    "tomas": {
+        "ultimo_nivel_ganado": 0,
+        "dinero": 600,
+        "items": []
+    },
+    "juancito": {
+        "ultimo_nivel_ganado": 0,
+        "dinero": 0,
+        "items": []
+    },
+    "andy": {
+        "ultimo_nivel_ganado": 0,
+        "dinero": 450,
+        "items": []
+    },
+    "martita": {
+        "ultimo_nivel_ganado": 1,
+        "dinero": 600,
+        "items": [
+            "botas"
+        ]
+    },
+    "juan": {
+        "ultimo_nivel_ganado": 0,
+        "dinero": 0,
+        "items": []
+    },
+    "man": {
+        "ultimo_nivel_ganado": 0,
+        "dinero": 0,
+        "items": []
+    },
+    "panu": {
+        "ultimo_nivel_ganado": 3,
+        "dinero": 600,
+        "items": []
+    }
+}
