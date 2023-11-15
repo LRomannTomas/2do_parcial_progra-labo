@@ -13,6 +13,10 @@ reloj = pygame.time.Clock()
 
 menu_principal = MenuPrincipal(pantalla)
 
+pygame.mixer.init()
+pygame.mixer.music.load("juego/recursos/musica_fondo/musica_fondo.mp3")
+pygame.mixer.music.play(-1)
+pygame.mixer.music.set_volume(0.05)
 
 flag_correr = True
 
